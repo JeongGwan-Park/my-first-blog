@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+jkenv
+db.sqlite3
+/static
+.DS_Store
